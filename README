@@ -1,0 +1,21 @@
+
+This is a basic chrome extension to access ones public profiles easily.
+
+To try this: 
+Step 1: 
+	Download the complete repository 
+Step 2:
+	Open chrome://extensions in your chrome
+Step 3:
+	Make sure you have the Developer Mode turned ON
+Step 4: 
+	Click on Load unpacked and select the downloaded repository folder. 
+
+Version 1.0.0 : 
+First Cut with currently my profiles added. 
+
+
+TODO:
+
+1. A page where a user can set up his/her own personal choice of public profiles handy.
+2. Adding them to the users popup dynamically.
